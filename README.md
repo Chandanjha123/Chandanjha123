@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kd.jha000@gmail.com**
 
-- 📄 Know about my experiences ["I may be a fresher, but my skills and experience surpass those of many who have been working for over five years."]("I may be a fresher, but my skills and experience surpass those of many who have been working for over five years.")
+- 📄 Know about my experiences "I may be a fresher, but my skills and experience surpass those of many who have been working for over five years."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
